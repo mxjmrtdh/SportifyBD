@@ -1,0 +1,2 @@
+ALTER TABLE product_feature
+MODIFY COLUMN id_product_feature INT AUTO_INCREMENT;
